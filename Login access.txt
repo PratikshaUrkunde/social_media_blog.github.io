@@ -1,0 +1,5 @@
+admin login:
+
+email:pratikshagalaxy@gmail.com
+password:admin@1311
+
